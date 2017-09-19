@@ -10,6 +10,9 @@ export default function Body() {
             <div className="break">
             <p><i>Made in Italy</i></p>
             </div>
+            <div className="scroll">
+                <p>Scroll</p>
+            </div>
         </div>
     );
    
