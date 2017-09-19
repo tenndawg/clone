@@ -2,6 +2,15 @@
   text-align: center;
   background-image: url("http://www.menghishoes.com/wp-content/uploads/banner-11.jpg");
   background-size: cover;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .App-intro {
@@ -37,7 +46,6 @@
   display: inline-flex;
   opacity: 0;
   background-size: cover;
-  overflow: hidden;
 }
 
 .body-bg-size {
